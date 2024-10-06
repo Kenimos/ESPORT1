@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-demoparser2
-jupyterlab
-seaborn
